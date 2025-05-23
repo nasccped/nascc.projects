@@ -7,9 +7,9 @@ description and their link 😁
 
 <div align="center">
 
-| Rank | Name        | Description                                                                                        | link                                            |
-|:-----|:------------|:---------------------------------------------------------------------------------------------------|:------------------------------------------------|
-| 1    | Tic Tac Low | Attempt to make a high-performance simulation of tic-tac-toe using relatively low-level technology | [link](https://github.com/nasccped/tic-tac-low) |
+| Rank | Name        | Description                   | link                                            |
+|:-----|:------------|:------------------------------|:------------------------------------------------|
+| 1    | Tic Tac Low | Tic Tac Toe game using C lang | [link](https://github.com/nasccped/tic-tac-low) |
 
 </div>
 
