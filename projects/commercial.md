@@ -25,7 +25,7 @@ description and their link 😁
 
 All the content is alphabetically ordered!
 
-My top tier list is at the [begin of this file](#commercial).
+My top tier list is at the [begin of this file](#my-top-tier-commercial-projects).
 
 ### G
 
