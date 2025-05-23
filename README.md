@@ -17,24 +17,17 @@ Here, you'll find a major part of my projects 🎁 _(the public ones)_
 ## Groups
 
 They'll be grouped by category, such as:
-  - **academic/study** 🏫
 
-    When the purpose is to learn a new concept/technology or is
-    designed to an academic showing/exam
+  - 🏫 **academic/study**: When the purpose is to learn a new
+    concept/technology or is designed to an academic showing/exam
 
-  - **commercial** 📊
+  - 📊 **commercial**: Some program/project to help a
+    community/commercial group (probably open source)
 
-    Some program/project to help a community/commercial group
-    (probably open source)
+  - 🤝 **contributions**: Some program/project to help a
+    community/commercial group (probably open source)
 
-  - **contributions** 🤝
-
-    Some program/project to help a community/commercial group
-    (probably open source)
-
-  - **personal** 🎉
-
-    When the purpose is to build something for my self usage
+  - 🎉 **personal**: When the purpose is to build something for my self usage
     (or no-sense thinks that I like to do)
 
 > [!NOTE]
