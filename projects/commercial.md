@@ -9,7 +9,7 @@ description and their link 😁
 
 | Rank | Name                   | Description                                                       | link                                                           |
 |:-----|:-----------------------|:------------------------------------------------------------------|:---------------------------------------------------------------|
-| 1    | Kojamp                 | Some kind of basic 'n academic Java/Kotlin "project-manager" tool | [link](https://github.com/nasccped/kojamp)                     |
+| 1    | Kojamp                 | A basic Java and Kotlin project-manager tool                      | [link](https://github.com/nasccped/kojamp)                     |
 | 2    | GPTheme Plus (VS Code) | A theme for VS Code based on the ChatGPT code view                | [link](https://github.com/nasccped/vsc-gptheme-plus-extension) |
 
 </div>
@@ -39,5 +39,5 @@ is a theme for VS Code based on the ChatGPT code view.
 
 #### Kojamp
 
-The [Kojamp](https://github.com/nasccped/kojamp) app is a kind of
-basic and academic Java/Kotlin "project-manager" tool 📦
+[Kojamp](https://github.com/nasccped/kojamp), a basic Java and Kotlin
+project-manager tool 📦
