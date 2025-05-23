@@ -31,3 +31,13 @@ They'll be grouped by category, such as:
 
     Some program/project to help a community/commercial group
     (probably open source)
+
+> [!NOTE]
+> 
+> All groups can be found in this repository _(at projects path)_
+>
+> Each filename mean a group category and have it own projects
+> content such as:
+>   - name
+>   - description
+>   - link url
