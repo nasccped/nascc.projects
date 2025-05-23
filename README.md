@@ -24,8 +24,7 @@ They'll be grouped by category, such as:
   - 📊 **commercial**: Some program/project to help a
     community/commercial group (probably open source)
 
-  - 🤝 **contributions**: Some program/project to help a
-    community/commercial group (probably open source)
+  - 🤝 **contributions**: Some program/project that I've contribute to
 
   - 🎉 **personal**: When the purpose is to build something for my self usage
     (or no-sense thinks that I like to do)
