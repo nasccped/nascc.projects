@@ -10,4 +10,24 @@ nascc.projects
 
 </div>
 
-A repository dedicated to expose my personal projects in an organized way 💎
+Welcome to my project's repository 😁
+
+Here, you'll find a major part of my projects 🎁 _(the public ones)_
+
+## Groups
+
+They'll be grouped by category, such as:
+  - **academic/study** 🏫
+
+    When the purpose is to learn a new concept/technology or is
+    designed to an academic showing/exam
+
+  - **personal** 🎉
+
+    When the purpose is to build something for my self usage
+    (or no-sense thinks that I like to do)
+
+  - **commercial** 🤝
+
+    Some program/project to help a community/commercial group
+    (probably open source)
