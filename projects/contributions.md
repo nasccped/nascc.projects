@@ -1,3 +1,3 @@
-# Contributions
+# Contributions 🤝
 
 Nothing to see here 🍃

@@ -1,3 +1,3 @@
-# Academic / Study
+# Academic / Study 🏫
 
 Nothing to see here 🍃

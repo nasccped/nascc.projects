@@ -1,3 +1,3 @@
-# Personal
+# Personal 🎉
 
 Nothing to see here 🍃
