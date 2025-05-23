@@ -22,15 +22,15 @@ They'll be grouped by category, such as:
     When the purpose is to learn a new concept/technology or is
     designed to an academic showing/exam
 
-  - **personal** 🎉
-
-    When the purpose is to build something for my self usage
-    (or no-sense thinks that I like to do)
-
   - **commercial** 🤝
 
     Some program/project to help a community/commercial group
     (probably open source)
+
+  - **personal** 🎉
+
+    When the purpose is to build something for my self usage
+    (or no-sense thinks that I like to do)
 
 > [!NOTE]
 > 
