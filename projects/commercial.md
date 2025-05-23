@@ -31,14 +31,10 @@ My top tier list is at the [begin of this file](#my-top-tier-commercial-projects
 
 #### [GPTheme Plus (VS Code)](https://github.com/nasccped/vsc-gptheme-plus-extension)
 
-[![last update](https://img.shields.io/github/last-commit/nasccped/vsc-gptheme-plus-extension?label=lates%20update)](#)
-
 A theme for VS Code based on the ChatGPT code view.
 
 ### K
 
 #### [Kojamp](https://github.com/nasccped/kojamp)
-
-[![last update](https://img.shields.io/github/last-commit/nasccped/kojamp?label=latest%20update)](#)
 
 Some kind of basic 'n academic Java/Kotlin "project-manager" tool 📦
