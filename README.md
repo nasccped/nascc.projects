@@ -38,3 +38,9 @@ They'll be grouped by category, such as:
 >   - name
 >   - description
 >   - link url
+>
+> ---
+>
+> The same project can appear in different groups (for example, a
+> project I'm working on is in the `personal` group, but it might
+> also be in the `contributions` group if I'm a co-owner).
