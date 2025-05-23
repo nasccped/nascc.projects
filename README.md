@@ -3,10 +3,10 @@
 nascc.projects
 ==============
 
-[![Academic/Study](https://img.shields.io/badge/Academic%2FStudy-c1121f?)](#)
-[![Commercial](https://img.shields.io/badge/Commercial-669bbc?)](#)
-[![Contributions](https://img.shields.io/badge/Contributions-fb8500?)](#)
-[![Personal](https://img.shields.io/badge/Personal-e76f51?)](#)
+[![Academic/Study](https://img.shields.io/badge/Academic%2FStudy-c1121f?style=for-the-badge)](#)
+[![Commercial](https://img.shields.io/badge/Commercial-669bbc?style=for-the-badge)](#)
+[![Contributions](https://img.shields.io/badge/Contributions-fb8500?style=for-the-badge)](#)
+[![Personal](https://img.shields.io/badge/Personal-e76f51?style=for-the-badge)](#)
 
 </div>
 
