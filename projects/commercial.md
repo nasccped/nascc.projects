@@ -17,9 +17,9 @@ description and their link 😁
 ## Summary
 
 - [G](#g)
-  - [GPTheme Plus (VS Code)](#gptheme-plus-vs-code)
+  - GPTheme Plus (VS Code)
 - [K](#k)
-  - [Kojamp](#kojamp)
+  - Kojamp
 
 ## Content
 
@@ -30,14 +30,10 @@ My top tier list is at the
 
 ### G
 
-#### GPTheme Plus (VS Code)
-
-The [GPTheme Plus (VS Code)](https://github.com/nasccped/vsc-gptheme-plus-extension)
-is a theme for VS Code based on the ChatGPT code view.
+- [GPTheme Plus (VS Code)](https://github.com/nasccped/vsc-gptheme-plus-extension)
+  is a theme for VS Code based on the ChatGPT code view 🤖
 
 ### K
 
-#### Kojamp
-
-[Kojamp](https://github.com/nasccped/kojamp), a basic Java and Kotlin
-project-manager tool 📦
+- [Kojamp](https://github.com/nasccped/kojamp), a basic Java and Kotlin
+  project-manager tool 📦

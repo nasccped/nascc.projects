@@ -16,7 +16,7 @@ description and their link 😁
 ## Summary
 
 - [J](#j)
-  - [Jargo](#jargo)
+  - Jargo
 
 ## Content
 
@@ -27,8 +27,6 @@ My top tier list is at the
 
 ### J
 
-#### Jargo
-
-[Jargo](https://github.com/Marlon-Sbardelatti/jargo), by
-[Marlon Sbardelatti](https://github.com/Marlon-Sbardelatti) is
-a Java project manager written in Rust 🦀
+- [Jargo](https://github.com/Marlon-Sbardelatti/jargo), by
+  [Marlon Sbardelatti](https://github.com/Marlon-Sbardelatti) is
+  a Java project manager written in Rust 🦀
