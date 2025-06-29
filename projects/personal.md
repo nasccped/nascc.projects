@@ -16,7 +16,7 @@ description and their link 😁
 ## Summary
 
 - [T](#t)
-  - [Tic Tac Low](#tic-tac-low)
+  - Tic Tac Low
 
 ## Content
 
@@ -27,9 +27,5 @@ My top tier list is at the
 
 ### T
 
-#### Tic Tac Low
-
-The [Tic Tac Low](https://github.com/nasccped/tic-tac-low)
-program is an attempt to make a high-performance simulation of
-tic-tac-toe using relatively low-level technology
-(C language was chosen 💀)
+- [`Tic Tac Low`](https://github.com/nasccped/tic-tac-low), a
+  simulation of tic-tac-toe using relatively low-level technology...
