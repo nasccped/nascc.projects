@@ -18,29 +18,22 @@ Here, you'll find a major part of my projects 🎁 _(the public ones)_
 
 They'll be grouped by category, such as:
 
-  - 🏫 **academic/study**: When the purpose is to learn a new
-    concept/technology or is designed to an academic showing/exam
+  - 🏫 [academic/study](https://github.com/nasccped/nascc.projects/blob/main/projects/academic-study.md):
+    When the purpose is to learn a new concept/technology or is
+    designed to an academic showing/exam
 
-  - 📊 **commercial**: Some program/project to help a
-    community/commercial group (probably open source)
+  - 📊 [commercial](https://github.com/nasccped/nascc.projects/blob/main/projects/commercial.md):
+    Some program/project to help a community/commercial group
+    (probably open source)
 
-  - 🤝 **contributions**: Some program/project that I've contribute
-    to
+  - 🤝 [contributions](https://github.com/nasccped/nascc.projects/blob/main/projects/contributions.md):
+    Some program/project that I've contribute too
 
-  - 🎉 **personal**: When the purpose is to build something for my
-    self usage (or no-sense thinks that I like to do)
+  - 🎉 [personal](https://github.com/nasccped/nascc.projects/blob/main/projects/personal.md):
+    When the purpose is to build something for my self usage
+    (or no-sense thinks that I like to do)
 
 > [!NOTE]
-> 
-> All groups can be found in this repository _(at projects path)_
->
-> Each filename mean a group category and have it own projects
-> content such as:
->   - name
->   - description
->   - link url
->
-> ---
 >
 > The same project can appear in different groups (for example, a
 > project I'm working on is in the `personal` group, but it might
