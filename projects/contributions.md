@@ -15,6 +15,8 @@ description and their link 😁
 
 ## Summary
 
+- [D](#d)
+  - dwm-fulltag-indicator
 - [J](#j)
   - Jargo
 
@@ -24,6 +26,12 @@ All the content is alphabetically ordered!
 
 My top tier list is at the
 [begin of this file](#my-top-tier-contributions).
+
+### D
+
+- [dwm-fulltag-indicator](https://github.com/nasccped/dwm-fulltag-indicator)
+  is a patch for [dwm](https://dwm.suckless.org) software that I
+  built intended to provide a more flexible indicator customization.
 
 ### J
 
