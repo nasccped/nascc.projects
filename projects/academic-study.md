@@ -10,8 +10,6 @@ and their link 😁
 
 ## Content
 
-All the content is alphabetically ordered!
-
 ### O
 
 - [`oop.string`](https://github.com/nasccped/oop.string), my attempt
