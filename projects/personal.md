@@ -19,5 +19,5 @@ description and their link 😁
 
 ### T
 
-- [`Tic Tac Low`](https://github.com/nasccped/tic-tac-low), a
+- [Tic Tac Low](https://github.com/nasccped/tic-tac-low), a
   simulation of tic-tac-toe using relatively low-level technology...

@@ -12,5 +12,5 @@ and their link 😁
 
 ### O
 
-- [`oop.string`](https://github.com/nasccped/oop.string), my attempt
+- [oop.string](https://github.com/nasccped/oop.string), my attempt
   to understand the **String** data more deeply in a low level way...
