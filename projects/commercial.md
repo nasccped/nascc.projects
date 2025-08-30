@@ -7,8 +7,10 @@ description and their link 😁
 
 - [G](#g)
   - GPTheme Plus (VS Code)
+- [J](#j)
+  - jsmoke
 - [K](#k)
-  - Kojamp
+  - ~~Kojamp~~ (discontinued)
 
 ## Content
 
@@ -17,7 +19,12 @@ description and their link 😁
 - [GPTheme Plus (VS Code)](https://github.com/nasccped/vsc-gptheme-plus-extension)
   is a theme for VS Code based on the ChatGPT code view 🤖
 
+### J
+
+- [jsmoke](https://github.com/nasccped/jsmoke), the
+  [kojamp](#kojamp-id) successor.
+
 ### K
 
-- [Kojamp](https://github.com/nasccped/kojamp), a basic Java and Kotlin
-  project-manager tool 📦
+- <p id="kojamp-id"> <s><a href="https://github.com/nasccped/kojamp">Kojamp</a>, a basic Java and Kotlin
+  project-manager tool 📦</s> (discontinued) </p>
