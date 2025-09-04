@@ -5,10 +5,18 @@ and their link 😁
 
 ## Summary
 
+- [D](#d)
+  - DP-iterator-example
 - [O](#o)
   - oop.string
 
 ## Content
+
+### D
+
+- [DP-iterator-example](https://github.com/nasccped/DP-iterator-example),
+  an `Iterator` design pattern implementation based on the
+  introductory pages of the _"Design Patterns"_ book.
 
 ### O
 
