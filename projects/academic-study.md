@@ -5,6 +5,8 @@ and their link 😁
 
 ## Summary
 
+- [A](#a)
+  - aoc-impl-comparison
 - [D](#d)
   - DP-iterator-example
   - DP-undo-redo-example
@@ -12,6 +14,12 @@ and their link 😁
   - oop.string
 
 ## Content
+
+### A
+
+- [aoc-impl-comparison](https://github.com/nasccped/aoc-impl-comparison),
+  is a comparison between `Python` and `C` solves implementation for
+  [Advent Of Code - 2020](https://adventofcode.com/2020).
 
 ### D
 
