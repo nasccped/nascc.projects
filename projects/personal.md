@@ -7,6 +7,8 @@ description and their link 😁
 
 - [J](#j)
   - JavaTermCalc (java-terminal-calculator)
+- [P](#p)
+  - pdmers
 - [T](#t)
   - Tic Tac Low
 
@@ -16,6 +18,11 @@ description and their link 😁
 
 - `JavaTermCalc` _([java-terminal-calculator](https://github.com/nasccped/java-terminal-calculator))_,
   a calculator TUI built in Java.
+
+### P
+
+- [pdmers](https://github.com/nasccped/pdmers), a rust CLI tool for
+  merging PDFs.
 
 ### T
 

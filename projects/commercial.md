@@ -11,6 +11,8 @@ description and their link 😁
   - jsmoke
 - [K](#k)
   - ~~Kojamp~~ (discontinued)
+- [P](#p)
+  - pdmers
 
 ## Content
 
@@ -28,3 +30,8 @@ description and their link 😁
 
 - <p id="kojamp-id"> <s><a href="https://github.com/nasccped/kojamp">Kojamp</a>, a basic Java and Kotlin
   project-manager tool 📦</s> (discontinued) </p>
+
+### P
+
+- [pdmers](https://github.com/nasccped/pdmers), a rust CLI tool for
+  merging PDFs.
