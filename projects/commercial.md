@@ -13,6 +13,8 @@ description and their link 😁
   - ~~Kojamp~~ (discontinued)
 - [P](#p)
   - pdmers
+- [R](#r)
+  - rustheme.nvim
 
 ## Content
 
@@ -35,3 +37,8 @@ description and their link 😁
 
 - [pdmers](https://github.com/nasccped/pdmers), a rust CLI tool for
   merging PDFs.
+
+### R
+
+- [rustheme.nvim](https://github.com/nasccped/rustheme.nvim), a
+  neovim colorscheme based on Rust Foundation's brand color palette.
