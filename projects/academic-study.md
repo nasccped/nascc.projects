@@ -7,6 +7,8 @@ and their link 😁
 
 - [A](#a)
   - aoc-impl-comparison
+- [C](#c)
+  - citer-example
 - [D](#d)
   - DP-iterator-example
   - DP-undo-redo-example
@@ -20,6 +22,11 @@ and their link 😁
 - [aoc-impl-comparison](https://github.com/nasccped/aoc-impl-comparison),
   is a comparison between `Python` and `C` solves implementation for
   [Advent Of Code - 2020](https://adventofcode.com/2020).
+
+### C
+
+- [citer-example](https://github.com/nasccped/citer-example), an
+  example of iterator implementing in C lang.
 
 ### D
 
