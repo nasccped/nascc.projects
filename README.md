@@ -14,27 +14,93 @@ Welcome to my project's repository 😁
 
 Here, you'll find a major part of my projects 🎁 _(the public ones)_
 
-## Groups
+## Table of contents
 
-They'll be grouped by category, such as:
+- [Academic/Study](#academicstudy)
+  - [aoc-impl-comparison](#aoc-impl-comparison)
+  - [citer-example](#citer-example)
+  - [DP-iterator-example](#DP-iterator-example)
+  - [DP-undo-redo-example](#dp-undo-redo-example)
+  - [oop.string](#oopstring)
+- [Commercial](#commercial)
+  - [GPTheme Plus (VS Code)](#gptheme-plus-vs-code)
+  - [jsmoke](#jsmoke)
+  - [~~kojamp~~](#kojamp-discontinued) (discontinued)
+  - [pdmers](#pdmers)
+  - [rustheme.nvim](#rusthemenvim)
+- [Contributions](#contributions)
+  - [dwm-fulltag-indicator](#dwm-fulltag-indicator)
+  - [Jargo](#jargo)
+- [Personal](#personal)
+  - [JavaTermCalc](#javatermcalc-java-terminal-calculator)
+  - [tic-tac-low](#tic-tac-low)
 
-  - 🏫 [academic/study](https://github.com/nasccped/nascc.projects/blob/main/projects/academic-study.md):
-    When the purpose is to learn a new concept/technology or is
-    designed to an academic showing/exam
+## Academic/Study
 
-  - 📊 [commercial](https://github.com/nasccped/nascc.projects/blob/main/projects/commercial.md):
-    Some program/project to help a community/commercial group
-    (probably open source)
+### [aoc-impl-comparison](https://github.com/nasccped/aoc-impl-comparison)
 
-  - 🤝 [contributions](https://github.com/nasccped/nascc.projects/blob/main/projects/contributions.md):
-    Some program/project that I've contribute too
+A solve implementing comparison between `Python` and `C` for
+[Advent Of Code - 2020](https://adventofcode.com/2020).
 
-  - 🎉 [personal](https://github.com/nasccped/nascc.projects/blob/main/projects/personal.md):
-    When the purpose is to build something for my self usage
-    (or no-sense thinks that I like to do)
+### [citer-example](https://github.com/nasccped/citer-example)
 
-> [!NOTE]
->
-> The same project can appear in different groups (for example, a
-> project I'm working on is in the `personal` group, but it might
-> also be in the `contributions` group if I'm a co-owner).
+An example of iterator implementing in C lang.
+
+### [DP-iterator-example](https://github.com/nasccped/DP-iterator-example)
+
+An `Iterator` design pattern implementation based on the introductory
+pages of the _"Design Patterns"_ book.
+
+### [DP-undo-redo-example](https://github.com/nasccped/DP-undo-redo-example)
+
+An `undo-redo` machine inspired on `Command` design pattern from
+_"Design Patterns"_ book.
+
+### [oop.string](https://github.com/nasccped/oop.string)
+
+A more in-depth approach for C lang strings.
+
+## Commercial
+
+### [GPTheme Plus (VS Code)](https://github.com/nasccped/vsc-gptheme-plus-extension)
+
+A theme for VS Code based on the ChatGPT code view.
+
+### [jsmoke](https://github.com/nasccped/jsmoke)
+
+A project manager targeting Java applications (the
+[kojamp](#kojamp) successor).
+
+### [~~kojamp~~](https://github.com/nasccped/kojamp) (discontinued)
+
+A basic Java and Kotlin project-manager tool.
+
+### [pdmers](https://github.com/nasccped/pdmers)
+
+A rust CLI tool for PDFs concat.
+
+### [rustheme.nvim](https://github.com/nasccped/rustheme.nvim)
+
+A neovim colorscheme based on Rust Foundation's brand color palette.
+
+## Contributions
+
+### [dwm-fulltag-indicator](https://github.com/nasccped/dwm-fulltag-indicator)
+
+A patch for [dwm](https://dwm.suckless.org) software that I built
+intended to provide a more flexible indicator customization.
+
+### [Jargo](https://github.com/Marlon-Sbardelatti/jargo)
+
+A Java project manager written in Rust (by
+[Marlon Sbardelatti](https://github.com/Marlon-Sbardelatti)).
+
+## Personal
+
+### `JavaTermCalc` _([java-terminal-calculator](https://github.com/nasccped/java-terminal-calculator))_
+
+A calculator TUI built in Java.
+
+### [tic-tac-low](https://github.com/nasccped/tic-tac-low)
+
+A simulation of tic-tac-toe using relatively low-level technology...
