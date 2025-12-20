@@ -34,6 +34,7 @@ Here, you'll find a major part of my projects 🎁 _(the public ones)_
 - [Personal](#personal)
   - [JavaTermCalc](#javatermcalc-java-terminal-calculator)
   - [tic-tac-low](#tic-tac-low)
+- [Outro](#outro)
 
 ## Academic/Study
 
@@ -104,3 +105,13 @@ A calculator TUI built in Java.
 ### [tic-tac-low](https://github.com/nasccped/tic-tac-low)
 
 A simulation of tic-tac-toe using relatively low-level technology...
+
+## Outro
+
+Do you wan't to invite me to a project? Send an e-mail to
+[pdbt.contact@gmail.com](pdbt.contact@gmail.com).
+
+> [!NOTE]
+>
+> This repo attaches just the **project** urls/repos. My config
+> repositories can be found at [nascc.config](https://github.com/nasccped/nascc.configs) repo.
