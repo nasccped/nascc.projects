@@ -32,6 +32,7 @@ Here, you'll find a major part of my projects 🎁 _(the public ones)_
   - [dwm-fulltag-indicator](#dwm-fulltag-indicator)
   - [Jargo](#jargo)
 - [Personal](#personal)
+  - [colgoterm](#colgoterm)
   - [JavaTermCalc](#javatermcalc-java-terminal-calculator)
   - [tic-tac-low](#tic-tac-low)
 - [Outro](#outro)
@@ -97,6 +98,10 @@ A Java project manager written in Rust (by
 [Marlon Sbardelatti](https://github.com/Marlon-Sbardelatti)).
 
 ## Personal
+
+### [colgoterm](https://github.com/nasccped/colgoterm)
+
+A colored terminal printer written in Go lang.
 
 ### `JavaTermCalc` _([java-terminal-calculator](https://github.com/nasccped/java-terminal-calculator))_
 
