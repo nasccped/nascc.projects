@@ -1,20 +1,6 @@
-<div align="center">
+<h1 align="center"> nascc.projects </h1>
 
-nascc.projects
-==============
-
-[![Academic/Study](https://img.shields.io/badge/Academic%2FStudy-302f33)](#)
-[![Commercial](https://img.shields.io/badge/Commercial-302f33)](#)
-[![Contributions](https://img.shields.io/badge/Contributions-302f33)](#)
-[![Personal](https://img.shields.io/badge/Personal-302f33)](#)
-
-</div>
-
-Welcome to my project's repository 😁
-
-Here, you'll find a major part of my projects 🎁 _(the public ones)_
-
-## Table of contents
+The projects are separated by tags:
 
 - [Academic/Study](#academicstudy)
   - [aoc-impl-comparison](#aoc-impl-comparison)
