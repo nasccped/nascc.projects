@@ -9,6 +9,7 @@ The projects are separated by tags:
   - [DP-undo-redo-example](#dp-undo-redo-example)
   - [oop.string](#oopstring)
 - [Commercial](#commercial)
+  - [acrt](#acrt)
   - [GPTheme Plus (VS Code)](#gptheme-plus-vs-code)
   - [jsmoke](#jsmoke)
   - [~~kojamp~~](#kojamp-discontinued) (discontinued)
@@ -49,6 +50,10 @@ _"Design Patterns"_ book.
 A more in-depth approach for C lang strings.
 
 ## Commercial
+
+### [acrt](https://github.com/nasccped/acrt)
+
+An assertion C library.
 
 ### [GPTheme Plus (VS Code)](https://github.com/nasccped/vsc-gptheme-plus-extension)
 
