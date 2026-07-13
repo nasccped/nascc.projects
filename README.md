@@ -16,6 +16,7 @@ The projects are separated by tags:
   - [pdmers](#pdmers)
   - [rustheme.nvim](#rusthemenvim)
 - [Contributions](#contributions)
+  - [catppuccin/nvim](#catppuccinnvim)
   - [dwm-fulltag-indicator](#dwm-fulltag-indicator)
   - [Jargo](#jargo)
 - [Personal](#personal)
@@ -77,6 +78,11 @@ A rust CLI tool for PDFs concat.
 A neovim colorscheme based on Rust Foundation's brand color palette.
 
 ## Contributions
+
+### [catppuccin/nvim](#catppuccin/nvim)
+
+Fix [catppuccin colorscheme](https://github.com/catppuccin/nvim)
+runtime crash.
 
 ### [dwm-fulltag-indicator](https://github.com/nasccped/dwm-fulltag-indicator)
 
